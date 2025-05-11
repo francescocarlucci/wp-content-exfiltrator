@@ -59,7 +59,7 @@ Exfiltration complete.
 Exfiltrated Content: Test content here
 ```
 
-## Sample CVEs
+## Related CVEs
 
 - CVE-2024-1129
 - CVE-2024-11153
